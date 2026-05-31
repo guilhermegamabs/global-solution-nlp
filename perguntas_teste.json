@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "descricao": "10 perguntas tecnicas para avaliar o assistente RAG de Edificios Verdes / Net Zero (agua e energia). Ajuste/valide cada pergunta conforme o conteudo REAL do seu corpus antes de rodar a avaliacao.",
+    "total": 10,
+    "comparar_sem_rag": ["P01", "P05", "P08"]
+  },
+  "perguntas": [
+    {"id": "P01", "subcategoria": "energia", "pergunta": "O que caracteriza um edificio Net Zero Energy e como se calcula o balanco energetico anual?"},
+    {"id": "P02", "subcategoria": "energia", "pergunta": "Quais requisitos de eficiencia energetica a certificacao LEED exige para a categoria de energia e atmosfera?"},
+    {"id": "P03", "subcategoria": "energia", "pergunta": "Como dimensionar um sistema fotovoltaico para suprir parte da demanda eletrica de um edificio?"},
+    {"id": "P04", "subcategoria": "energia", "pergunta": "Qual o papel de um sistema BEMS na operacao eficiente de um edificio?"},
+    {"id": "P05", "subcategoria": "energia", "pergunta": "Quais parametros de desempenho termico a ABNT NBR 15575 estabelece para a envoltoria?"},
+    {"id": "P06", "subcategoria": "agua", "pergunta": "O que e um edificio Net Zero Water e quais estrategias permitem atingir esse balanco?"},
+    {"id": "P07", "subcategoria": "agua", "pergunta": "Como funciona um sistema de reaproveitamento de aguas cinzas e quais usos finais sao permitidos?"},
+    {"id": "P08", "subcategoria": "agua", "pergunta": "Quais sao os criterios para dimensionar um sistema de captacao de agua pluvial em edificacoes?"},
+    {"id": "P09", "subcategoria": "agua", "pergunta": "Que requisitos de gestao da agua a certificacao AQUA-HQE avalia?"},
+    {"id": "P10", "subcategoria": "agua", "pergunta": "Qual a qualidade minima de agua exigida para reuso nao potavel em edificios?"}
+  ]
+}

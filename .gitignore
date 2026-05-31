@@ -1,0 +1,41 @@
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache HuggingFace e modelos baixados
+.cache/
+~/.cache/
+
+# Banco vetorial gerado (recriado pelo notebook)
+chroma_db/
+
+# Logs e temporarios
+*.log
+*.tmp
+_*.txt
+
+# Segredos
+.env
+.env.*
+*.key
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+desktop.ini

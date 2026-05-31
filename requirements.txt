@@ -1,0 +1,28 @@
+# Extração de documentos
+pypdf>=4.0
+pdfplumber>=0.11        # tabelas técnicas
+python-docx>=1.1        # DOCX
+beautifulsoup4>=4.12    # HTML
+lxml>=5.0
+
+# NLP / embeddings
+sentence-transformers>=3.0
+transformers>=4.40
+torch>=2.2
+
+# Banco vetorial
+chromadb>=0.5
+
+# LLM local (cliente Ollama)
+ollama>=0.3
+
+# Análise / visualização
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4       # t-SNE
+matplotlib>=3.8
+tiktoken>=0.7           # contagem de tokens (fallback)
+
+# Notebook
+jupyterlab>=4.0
+ipykernel>=6.29
