@@ -1,5 +1,12 @@
 # Assistente RAG — Edificios Verdes & Net Zero (Agua e Energia)
 
+## Integrantes
+
+| Nome | RM |
+|------|----|
+| Guilherme Gama | RM565293 |
+| Igor Thiago Nakajima Vieira | RM563632 |
+
 Global Solution — Processamento de Linguagem Natural, Chatbots & Virtual Agents.
 
 Assistente tecnico que responde perguntas sobre **edificios verdes e Net Zero de energia e agua**,
